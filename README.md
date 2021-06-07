@@ -5,12 +5,10 @@
 
 #### 功能亮点
 
-![meiyan01](D:\wanyue\gitee\meihumeiyan\meiyan01.png)
-
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164425_6c9a87c5_2073279.png "meiyan01.png")
 #### 版本对比
 
-![meiyan02](D:\wanyue\gitee\meihumeiyan\meiyan02.png)
-
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164436_688600b2_2073279.png "meiyan02.png")
 ### 开源版使用须知
 
 - 允许用于个人学习、教学案例
