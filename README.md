@@ -1,23 +1,19 @@
 # 美狐美颜开源版
 
-#### 介绍
+#### 项目介绍
 美狐美颜sdk，是以人脸识别技术为核心，提供专业级实时美颜、大眼瘦脸、美颜滤镜、动态贴纸等滤镜的移动端sdk，以打造多功能视频美颜软件为目标，充分满足客户在直播美颜、短视频美颜等众多音视频软件业务场景的美化需求。现推出开源版本iOS版，Android开源版本正在研发中敬请期待！
 
-#### 软件架构
-软件架构说明
+#### 功能亮点
 
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164425_6c9a87c5_2073279.png "meiyan01.png")
+#### 版本对比
 
-#### 安装教程
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164436_688600b2_2073279.png "meiyan02.png")
+### 开源版使用须知
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 允许用于个人学习、教学案例
+- 开源版不适合商用，商用请购买商业版
+- 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
 
 #### 参与贡献
 
@@ -26,12 +22,4 @@
 3.  提交代码
 4.  新建 Pull Request
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 联系我们
