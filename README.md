@@ -40,7 +40,7 @@ gpurenderKit
 点击链接加入群聊【美狐SDK开源版技术交流】：https://jq.qq.com/?_wv=1027&k=jpfejeg2
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/090435_a2e01296_2073279.png "美狐SDK开源版技术交流群群二维码.png")
-
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/094936_6e7a1d4c_9236797.jpeg "微信图片编辑_20210609094840.jpg")
 
 技术客服qq：2862937527
 
