@@ -32,6 +32,10 @@ GPUImage、gpurenderKit
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085049_942dba67_2073279.png "微信截图_20210609085018.png")
 
 点击链接加入群聊【美狐SDK开源版技术交流】：https://jq.qq.com/?_wv=1027&k=jpfejeg2
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/090435_a2e01296_2073279.png "美狐SDK开源版技术交流群群二维码.png")
+
+
 技术客服qq：2862937527
 
 #### 参与贡献
