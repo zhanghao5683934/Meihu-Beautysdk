@@ -18,8 +18,11 @@
 - 开源版不适合商用，商用请购买商业版
 - 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
 #### 参考项目
-GPUImage、gpurenderKit
-
+GPUImage
+[https://github.com/Bonway/BBGPUImage](http://)
+gpurenderKit
+[https://github.com/Dongdong1991/GPURenderKitDemo
+](http://)
 #### 商业合作
 美狐sdk精简版、基础版、高级版拥有更加完善的功能、性能更高、更稳定，支持目前主流的云服务平台
 
