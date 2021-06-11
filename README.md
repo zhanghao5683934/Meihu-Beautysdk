@@ -10,6 +10,11 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164425_6c9a87c5_2073279.png "meiyan01.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085441_9fdfc91e_2073279.png "微信截图_20210609085406.png")
 
+#### 接入说明
+由于这里面需要用到人脸106个关键点。
+
+需要去face++注册一个，选择免费的就可以。注册好之后更换MGNetAccount.h 里面的api_key和api_secret。
+
 #### 版本对比
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084021_bd43553c_2073279.png "555555(1).png")
 #### 开源版使用须知
@@ -40,7 +45,6 @@ gpurenderKit
 点击链接加入群聊【美狐SDK开源版技术交流】：https://jq.qq.com/?_wv=1027&k=jpfejeg2
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/090435_a2e01296_2073279.png "美狐SDK开源版技术交流群群二维码.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/095131_f644da4b_9236797.png "微信截图_20210609094953.png")
 
 
 技术客服qq：2862937527
