@@ -12,6 +12,7 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085441_9fdfc91e_2073279.png "微信截图_20210609085406.png")
 
 #### 接入说明
+下载项目后 用Xcode打开
 由于这里面需要用到人脸106个关键点。这里用的face++的人脸识别 [旷世face++](https://www.faceplusplus.com.cn/)
 需要去face++注册一个，选择免费的就可以。注册好之后在MGNetAccount.h 里面更换api_key和api_secret。
 
