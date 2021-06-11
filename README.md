@@ -4,17 +4,13 @@
 美狐美颜sdk，是以人脸识别技术为核心，提供专业级实时美颜、大眼瘦脸、美颜滤镜、动态贴纸等滤镜的移动端sdk，以打造多功能视频美颜软件为目标，充分满足客户在直播美颜、短视频美颜等众多音视频软件业务场景的美化需求。现推出开源版本iOS版，Android开源版本正在研发中敬请期待！
 演示demo：![输入图片说明](https://images.gitee.com/uploads/images/2021/0611/133433_ea131003_2073279.png "截屏2021-06-11 下午12.01.10.png")
 
-
+#### 接入说明
+下载项目后 用Xcode打开 真机运行即可展示效果
 
 #### 功能亮点
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164425_6c9a87c5_2073279.png "meiyan01.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085441_9fdfc91e_2073279.png "微信截图_20210609085406.png")
-
-#### 接入说明
-下载项目后 用Xcode打开
-由于这里面需要用到人脸106个关键点。这里用的face++的人脸识别 [旷世face++](https://www.faceplusplus.com.cn/)
-需要去face++注册一个，选择免费的就可以。注册好之后在MGNetAccount.h 里面更换api_key和api_secret。
 
 #### 版本对比
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084021_bd43553c_2073279.png "555555(1).png")
