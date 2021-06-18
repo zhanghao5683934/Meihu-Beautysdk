@@ -25,6 +25,25 @@ GPUImage
 gpurenderKit
 [https://github.com/Dongdong1991/GPURenderKitDemo
 ](http://)
+
+#### 联系我们
+
+点击链接加入群聊【美狐开源学习交流群】：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
+
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0617/092818_7eda5f96_9236797.png "美狐开源学习交流群群二维码.png")
+
+
+
+技术客服qq：2862937527
+
+
+官网地址：http://www.facegl.com/
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085049_942dba67_2073279.png "微信截图_20210609085018.png")
+
+
+
 #### 商业合作
 美狐sdk精简版、基础版、高级版拥有更加完善的功能、性能更高、更稳定，支持目前主流的云服务平台
 
@@ -33,18 +52,7 @@ gpurenderKit
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084823_2c276b86_2073279.png "微信截图_20210609084741.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084832_89c09f16_2073279.png "微信截图_20210609084632.png")
 
-#### 联系我们
 
-官网地址：http://www.facegl.com/
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085049_942dba67_2073279.png "微信截图_20210609085018.png")
-
-点击链接加入群聊【美狐开源学习交流群】：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
-
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0617/092818_7eda5f96_9236797.png "美狐开源学习交流群群二维码.png")
-
-技术客服qq：2862937527
 
 #### 参与贡献
 
