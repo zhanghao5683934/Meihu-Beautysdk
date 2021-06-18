@@ -1,7 +1,9 @@
+<div align=center><img src="https://images.gitee.com/uploads/images/2021/0618/095342_4da2ec7b_2073279.png" /></div>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0618/095342_4da2ec7b_2073279.png "微信截图_20210618094744.png")
 
 ### 美狐美颜开源版（如果对你有用，请给个star！)
+
+---
 
 #### 联系我们
 
