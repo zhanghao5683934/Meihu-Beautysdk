@@ -12,20 +12,6 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0607/164425_6c9a87c5_2073279.png "meiyan01.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085441_9fdfc91e_2073279.png "微信截图_20210609085406.png")
 
-#### 版本对比
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084021_bd43553c_2073279.png "555555(1).png")
-#### 开源版使用须知
-
-- 允许用于个人学习、教学案例
-- 开源版不适合商用，商用请购买商业版
-- 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
-#### 参考项目
-GPUImage
-[https://github.com/Bonway/BBGPUImage](http://)
-gpurenderKit
-[https://github.com/Dongdong1991/GPURenderKitDemo
-](http://)
-
 #### 联系我们
 
 点击链接加入群聊【美狐开源学习交流群】：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
@@ -42,6 +28,22 @@ gpurenderKit
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/085049_942dba67_2073279.png "微信截图_20210609085018.png")
 
+
+
+
+#### 版本对比
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084021_bd43553c_2073279.png "555555(1).png")
+#### 开源版使用须知
+
+- 允许用于个人学习、教学案例
+- 开源版不适合商用，商用请购买商业版
+- 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
+#### 参考项目
+GPUImage
+[https://github.com/Bonway/BBGPUImage](http://)
+gpurenderKit
+[https://github.com/Dongdong1991/GPURenderKitDemo
+](http://)
 
 
 #### 商业合作
