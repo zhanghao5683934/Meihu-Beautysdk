@@ -29,10 +29,15 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/140824_628c2001_9236797.png "BrowserPreview_tmp_01.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/140839_fa112ac1_9236797.png "BrowserPreview_tmp_02.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141724_9ee7d18c_9236797.gif "BrowserPreview_tmp_01.gif")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141739_4fdf464f_9236797.png "BrowserPreview_tmp_02 (1).png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141750_aadea02e_9236797.gif "BrowserPreview_tmp_03.gif")
+
+
 
 
 #### 版本对比
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084021_bd43553c_2073279.png "555555(1).png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141810_58482e3d_9236797.png "粉色背景.png")
 #### 开源版使用须知
 
 - 允许用于个人学习、教学案例
@@ -53,7 +58,7 @@ gpurenderKit
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084823_2c276b86_2073279.png "微信截图_20210609084741.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0609/084832_89c09f16_2073279.png "微信截图_20210609084632.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141345_8426f172_9236797.png "BrowserPreview_tmp_02 (1).png")
+
 #### 参与贡献
 
 1.  Fork 本仓库
