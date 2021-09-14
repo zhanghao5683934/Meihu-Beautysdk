@@ -1,34 +1,29 @@
-<div align=center><img src="https://images.gitee.com/uploads/images/2021/0618/095342_4da2ec7b_2073279.png" /></div>
+<div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140824_628c2001_9236797.png" /></div>
+<div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140839_fa112ac1_9236797.png" /></div>
 
-
-### 美狐美颜开源版（如果对你有用，请给个star！)
-
----
-
-#### 联系我们
-
-点击链接加入群聊【美狐开源学习交流群】：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
-
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0617/092818_7eda5f96_9236797.png "美狐开源学习交流群群二维码.png")
-
-
-
-客服qq：1807424193
-
+#### 美狐美颜开源版（如果对你有用，请给个star！)
 
 #### 项目介绍
 美狐美颜sdk，是以人脸识别技术为核心，提供专业级实时美颜、大眼瘦脸、美颜滤镜、动态贴纸等滤镜的移动端sdk，以打造多功能视频美颜软件为目标，充分满足客户在直播美颜、短视频美颜等众多音视频软件业务场景的美化需求。现推出开源版本iOS版，Android开源版本正在研发中敬请期待！
 
 演示demo：<img src="https://images.gitee.com/uploads/images/2021/0611/133433_ea131003_2073279.png" width="400"/>
 
+#### 联系我们
+
+点击链接加入群聊【美狐开源学习交流群】：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
+
+
+<!-- ![输入图片说明](https://images.gitee.com/uploads/images/2021/0617/092818_7eda5f96_9236797.png "美狐开源学习交流群群二维码.png")
+ -->
+
+
+客服qq：1807424193
+
 #### 接入说明
 下载项目后 用Xcode打开 真机运行即可展示效果
 
 #### 功能亮点
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/140824_628c2001_9236797.png "BrowserPreview_tmp_01.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/140839_fa112ac1_9236797.png "BrowserPreview_tmp_02.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141724_9ee7d18c_9236797.gif "BrowserPreview_tmp_01.gif")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141739_4fdf464f_9236797.png "BrowserPreview_tmp_02 (1).png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141750_aadea02e_9236797.gif "BrowserPreview_tmp_03.gif")
