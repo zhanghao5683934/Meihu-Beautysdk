@@ -6,6 +6,30 @@
 #### 项目介绍
 美狐美颜sdk，是以人脸识别技术为核心，提供专业级实时美颜、大眼瘦脸、美颜滤镜、动态贴纸等滤镜的移动端sdk，以打造多功能视频美颜软件为目标，充分满足客户在直播美颜、短视频美颜等众多音视频软件业务场景的美化需求。现推出开源版本iOS版，Android开源版本正在研发中敬请期待！
 
+#### 特效介绍
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172234_7103c9b4_9236797.png "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172320_3feb9004_9236797.png "banner(5).png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172411_7404c204_9236797.png "banner(2).png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172423_cd2582fd_9236797.png "banner(4).png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172443_5e5ef413_9236797.png "banner.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172505_a148336c_9236797.png "banner(9).png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172521_9e979244_9236797.png "banner(6).png")
+
+#### 版本对比
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/171933_7ddded80_9236797.png "新版美颜.png") 
+#### 开源版使用须知
+
+- 允许用于个人学习、教学案例
+- 开源版不适合商用，商用请购买商业版
+- 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
+#### 演示demo
+GPUImage
+[https://github.com/Bonway/BBGPUImage](http://)
+gpurenderKit
+[https://github.com/Dongdong1991/GPURenderKitDemo
+](http://)
+
 演示demo：<img src="https://images.gitee.com/uploads/images/2021/0611/133433_ea131003_2073279.png" width="400"/>
 
 #### 联系我们
@@ -21,30 +45,6 @@
 
 #### 接入说明
 下载项目后 用Xcode打开 真机运行即可展示效果
-
-#### 功能亮点
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141724_9ee7d18c_9236797.gif "BrowserPreview_tmp_01.gif")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141739_4fdf464f_9236797.png "BrowserPreview_tmp_02 (1).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141750_aadea02e_9236797.gif "BrowserPreview_tmp_03.gif")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/142229_5022e3ba_9236797.png "BrowserPreview_tmp_01 (1).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/142251_002f2d4c_9236797.gif "BrowserPreview_tmp_02.gif")
-
-
-#### 版本对比
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0807/141810_58482e3d_9236797.png "粉色背景.png")
-#### 开源版使用须知
-
-- 允许用于个人学习、教学案例
-- 开源版不适合商用，商用请购买商业版
-- 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
-#### 参考项目
-GPUImage
-[https://github.com/Bonway/BBGPUImage](http://)
-gpurenderKit
-[https://github.com/Dongdong1991/GPURenderKitDemo
-](http://)
-
 
 #### 商业合作
 美狐sdk非开源版拥有更加完善的功能、性能更高、更稳定，支持目前主流的云服务平台
