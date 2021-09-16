@@ -1,12 +1,19 @@
 <div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140824_628c2001_9236797.png" /></div>
 <div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140839_fa112ac1_9236797.png" /></div>
 
-#### 美狐美颜开源版（如果对你有用，请给个star！)
+### 美狐美颜开源版（如果对你有用，请给个star！)
 
-#### 项目介绍
+### 演示Demo
+- 美颜演示下载地址: <a target="_blank" href="http://fir.facegl.com/yetc">http://fir.facegl.com/yetc</a>
+演示demo：<img src="https://images.gitee.com/uploads/images/2021/0611/133433_ea131003_2073279.png" width="400"/>
+
+### 接入说明
+下载项目后 用Xcode打开 真机运行即可展示效果
+
+### 项目介绍
 美狐美颜sdk，是以人脸识别技术为核心，提供专业级实时美颜、大眼瘦脸、美颜滤镜、动态贴纸等滤镜的移动端sdk，以打造多功能视频美颜软件为目标，充分满足客户在直播美颜、短视频美颜等众多音视频软件业务场景的美化需求。现推出开源版本iOS版，Android开源版本正在研发中敬请期待！
 
-#### 特效介绍
+### 功能展示
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172234_7103c9b4_9236797.png "在这里输入图片标题")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172320_3feb9004_9236797.png "banner(5).png")
@@ -16,40 +23,37 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172505_a148336c_9236797.png "banner(9).png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172521_9e979244_9236797.png "banner(6).png")
 
-#### 版本对比
+### 版本对比
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/171933_7ddded80_9236797.png "新版美颜.png") 
-#### 开源版使用须知
+
+### 开源版使用须知
 
 - 允许用于个人学习、教学案例
 - 开源版不适合商用，商用请购买商业版
 - 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
-#### 演示demo
-GPUImage
-[https://github.com/Bonway/BBGPUImage](http://)
-gpurenderKit
-[https://github.com/Dongdong1991/GPURenderKitDemo
-](http://)
 
-演示demo：<img src="https://images.gitee.com/uploads/images/2021/0611/133433_ea131003_2073279.png" width="400"/>
+### 商业合作
+* 美狐sdk非开源版拥有更加完善的功能、性能更高、更稳定，支持目前主流的云服务平台
+* 如果您想使用功能更完善的美颜sdk，请联系QQ客服：1807424193，获取其它版本
 
-#### 联系我们
+### 免费领取试用（加客服经理微信或加入开源群，均可免费领取7天专业版试用）
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0916/185939_2e66c575_9236797.png "wxer1.png")
+
 
 点击链接加入群聊【美狐开源学习交流群】：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
 
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0916/173830_95d0c197_9236797.png "美狐开源学习交流群群聊二维码.png")
 
-<!-- ![输入图片说明](https://images.gitee.com/uploads/images/2021/0617/092818_7eda5f96_9236797.png "美狐开源学习交流群群二维码.png")
- -->
+美颜开源QQ群：101672457
 
 
-客服qq：1807424193
 
-#### 接入说明
-下载项目后 用Xcode打开 真机运行即可展示效果
 
-#### 商业合作
-美狐sdk非开源版拥有更加完善的功能、性能更高、更稳定，支持目前主流的云服务平台
 
-如果您想使用功能更完善的美颜sdk，请联系我们 获取其它版本
+
+
+
+
 
 
 
