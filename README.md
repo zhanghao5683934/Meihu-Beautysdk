@@ -15,13 +15,7 @@
 
 ### 功能展示
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172234_7103c9b4_9236797.png "在这里输入图片标题")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172320_3feb9004_9236797.png "banner(5).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172411_7404c204_9236797.png "banner(2).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172423_cd2582fd_9236797.png "banner(4).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172443_5e5ef413_9236797.png "banner.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172505_a148336c_9236797.png "banner(9).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/172521_9e979244_9236797.png "banner(6).png")
+![输入图片说明](GPURenderKit/%E8%AF%A6%E6%83%85%E5%9B%BE.png)
 
 ### 版本对比
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/171933_7ddded80_9236797.png "新版美颜.png") 
