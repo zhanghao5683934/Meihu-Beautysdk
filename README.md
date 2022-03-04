@@ -18,7 +18,7 @@
 ![输入图片说明](GPURenderKit/%E8%AF%A6%E6%83%85%E5%9B%BE.png)
 
 ### 版本对比
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0915/171933_7ddded80_9236797.png "新版美颜.png") 
+![输入图片说明](%E7%BE%8E%E7%8B%90%E7%BE%8E%E9%A2%9CSDK%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94%E8%A1%A8.jpg)
 
 ### 开源版使用须知
 
