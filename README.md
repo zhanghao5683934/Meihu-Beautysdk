@@ -2,7 +2,7 @@
 <div align=center><img src="https://images.gitee.com/uploads/images/2021/0807/140839_fa112ac1_9236797.png" /></div>
 
 ### 美狐美颜开源版（如果对你有用，请给个star！)
-
+### Meihu beauty open source version (if it's useful for you, please give it a star!)
 ### 演示Demo
 - 美颜演示下载地址: <a target="_blank" href="http://fir.facegl.com/yetc">http://fir.facegl.com/yetc</a>
 演示demo：<img src="https://images.gitee.com/uploads/images/2021/0611/133433_ea131003_2073279.png" width="400"/>
